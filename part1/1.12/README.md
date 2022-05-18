@@ -1,4 +1,4 @@
-## Excercise 1.12
+## Exercise 1.12
 
 ```
 $ cp Dockerfile material-applications/example-frontend/

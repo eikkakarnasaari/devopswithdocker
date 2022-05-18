@@ -1,6 +1,6 @@
 # Part 1
 
-## Excercise 1.1
+## Exercise 1.1
 
 ```
 $ docker run -d nginx
@@ -33,7 +33,7 @@ CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS       
 ad5940af526e   nginx     "/docker-entrypoint.…"   22 seconds ago   Exited (0) 5 seconds ago             objective_dirac
 ```
 
-## Excercise 1.2
+## Exercise 1.2
 
 ```
 $ docker stop 81
@@ -72,7 +72,7 @@ $ docker images
 REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
 ```
 
-## Excercise 1.3
+## Exercise 1.3
 
 ```
 $ docker run -d devopsdockeruh/simple-web-service:ubuntu
@@ -100,13 +100,13 @@ Secret message is: 'You can find the source code here: https://github.com/docker
 root@1dfe8d8a3366:/usr/src/app#
 ```
 
-## Excercise 1.4
+## Exercise 1.4
 
 ```
 $ docker run -it ubuntu sh -c 'apt update; apt install -y curl; echo "Input website:"; read website; echo "Searching.."; sleep 1; curl http://$website;'
 ```
 
-## Excercise 1.5
+## Exercise 1.5
 
 ```
 $ docker images
@@ -127,7 +127,7 @@ $ docker exec -it alpine sh
 2022-05-16 22:15:18 +0000 UTC
 Secret message is: 'You can find the source code here: https://github.com/docker-hy'
 ```
-## Excercise 1.6
+## Exercise 1.6
 
 ```
 $ docker run -it devopsdockeruh/pull_exercise
@@ -136,15 +136,15 @@ Give me the password: basics
 You found the correct password. Secret message is:
 "This is the secret message"
 ```
-## Excercise 1.7
+## Exercise 1.7
 
 See folder 1.7
 
-## Excercise 1.8
+## Exercise 1.8
 
 See folder 1.8
 
-## Excercise 1.9
+## Exercise 1.9
 
 ```
 ~/logs$ touch text.log
@@ -162,7 +162,7 @@ Wrote text to /usr/src/app/text.log
 2022-05-17 02:11:48 +0000 UTC
 2022-05-17 02:11:50 +0000 UTC
 ```
-## Excercise 1.10
+## Exercise 1.10
 
 ```
 $ docker run -d -p 127.0.0.1:8080:8080 web-server
@@ -171,26 +171,26 @@ $ docker run -d -p 127.0.0.1:8080:8080 web-server
 {"message":"You connected to the following path: /","path":"/"}
 ```
 
-## Excercise 1.11
+## Exercise 1.11
 
 See folder 1.11
 
-## Excercise 1.12
+## Exercise 1.12
 
 See folder 1.12
 
-## Excercise 1.13
+## Exercise 1.13
 
 See folder 1.13
 
-## Excercise 1.14
+## Exercise 1.14
 
 See folder 1.14
 
-## Excercise 1.15
+## Exercise 1.15
 
 https://hub.docker.com/r/eokarnas/spring-example-project
 
-## Excercise 1.16
+## Exercise 1.16
 
 https://heroku-coursepage.herokuapp.com/

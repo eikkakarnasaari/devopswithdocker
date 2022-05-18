@@ -1,4 +1,4 @@
-## Excercise 1.15
+## Exercise 1.15
 
 https://hub.docker.com/r/eokarnas/spring-example-project
 

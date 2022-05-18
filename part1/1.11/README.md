@@ -1,4 +1,4 @@
-## Excercise 1.11
+## Exercise 1.11
 
 ```
 $ git clone https://github.com/docker-hy/material-applications.git

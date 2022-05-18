@@ -1,4 +1,4 @@
-## Excercise 1.14
+## Exercise 1.14
 
 ```
 $ docker run -d -p 5000:5000 frontend-example

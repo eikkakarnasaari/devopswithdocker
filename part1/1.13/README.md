@@ -1,4 +1,4 @@
-## Excercise 1.13
+## Exercise 1.13
 
 ```
 $ cp Dockerfile material-applications/example-backend/

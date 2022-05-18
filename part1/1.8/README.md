@@ -1,4 +1,4 @@
-## Excercise 1.8
+## Exercise 1.8
 
 ```
 $ docker build . -t curler
