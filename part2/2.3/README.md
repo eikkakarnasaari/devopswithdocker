@@ -3,7 +3,7 @@
 With having the images built from dockerfiles in exercise [1.14](../../part1/1.14):
 
 ```
-docker-compose up
+$ docker-compose up
 ```
 
 ```
