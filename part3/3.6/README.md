@@ -12,6 +12,6 @@ frontend-example   latest    70278796fb15   27 seconds ago   122MB
 
 ```
 $ docker images backend-example
-REPOSITORY        TAG       IMAGE ID       CREATED          SIZE
-backend-example   latest    e10c8adf7818   13 minutes ago   24.1MB
+REPOSITORY        TAG       IMAGE ID       CREATED         SIZE
+backend-example   latest    6d06ba99f639   3 minutes ago   18MB
 ```
